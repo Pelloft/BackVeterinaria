@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#Projects\\source\\repos\\ApiMascotas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31AF9C30-45F2-4FA9-9919-99F656B00121}|VeterinariaApp.Api\\VeterinariaApp.Api.csproj|d:\\c#projects\\source\\repos\\apimascotas\\veterinariaapp.api\\controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AF9C30-45F2-4FA9-9919-99F656B00121}|VeterinariaApp.Api\\VeterinariaApp.Api.csproj|solutionrelative:veterinariaapp.api\\controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AF9C30-45F2-4FA9-9919-99F656B00121}|VeterinariaApp.Api\\VeterinariaApp.Api.csproj|d:\\c#projects\\source\\repos\\apimascotas\\veterinariaapp.api\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AF9C30-45F2-4FA9-9919-99F656B00121}|VeterinariaApp.Api\\VeterinariaApp.Api.csproj|solutionrelative:veterinariaapp.api\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E462EBD7-FDB0-4FEF-A854-39FC843FB609}|VeterinariaApp.Domain\\VeterinariaApp.Domain.csproj|d:\\c#projects\\source\\repos\\apimascotas\\veterinariaapp.domain\\dtos\\userauthdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E462EBD7-FDB0-4FEF-A854-39FC843FB609}|VeterinariaApp.Domain\\VeterinariaApp.Domain.csproj|solutionrelative:veterinariaapp.domain\\dtos\\userauthdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AF9C30-45F2-4FA9-9919-99F656B00121}|VeterinariaApp.Api\\VeterinariaApp.Api.csproj|d:\\c#projects\\source\\repos\\apimascotas\\veterinariaapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AF9C30-45F2-4FA9-9919-99F656B00121}|VeterinariaApp.Api\\VeterinariaApp.Api.csproj|solutionrelative:veterinariaapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AF9C30-45F2-4FA9-9919-99F656B00121}|VeterinariaApp.Api\\VeterinariaApp.Api.csproj|d:\\c#projects\\source\\repos\\apimascotas\\veterinariaapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AF9C30-45F2-4FA9-9919-99F656B00121}|VeterinariaApp.Api\\VeterinariaApp.Api.csproj|solutionrelative:veterinariaapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E462EBD7-FDB0-4FEF-A854-39FC843FB609}|VeterinariaApp.Domain\\VeterinariaApp.Domain.csproj|d:\\c#projects\\source\\repos\\apimascotas\\veterinariaapp.domain\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E462EBD7-FDB0-4FEF-A854-39FC843FB609}|VeterinariaApp.Domain\\VeterinariaApp.Domain.csproj|solutionrelative:veterinariaapp.domain\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 148,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PetController.cs",
+              "DocumentMoniker": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Api\\Controllers\\PetController.cs",
+              "RelativeDocumentMoniker": "VeterinariaApp.Api\\Controllers\\PetController.cs",
+              "ToolTip": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Api\\Controllers\\PetController.cs",
+              "RelativeToolTip": "VeterinariaApp.Api\\Controllers\\PetController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T04:46:40.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicioController.cs",
+              "DocumentMoniker": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Api\\Controllers\\ServicioController.cs",
+              "RelativeDocumentMoniker": "VeterinariaApp.Api\\Controllers\\ServicioController.cs",
+              "ToolTip": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Api\\Controllers\\ServicioController.cs",
+              "RelativeToolTip": "VeterinariaApp.Api\\Controllers\\ServicioController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T04:46:03.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserAuthDto.cs",
+              "DocumentMoniker": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Domain\\DTOs\\UserAuthDto.cs",
+              "RelativeDocumentMoniker": "VeterinariaApp.Domain\\DTOs\\UserAuthDto.cs",
+              "ToolTip": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Domain\\DTOs\\UserAuthDto.cs",
+              "RelativeToolTip": "VeterinariaApp.Domain\\DTOs\\UserAuthDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T22:50:47.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "VeterinariaApp.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "VeterinariaApp.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:34:06.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Api\\Program.cs",
+              "RelativeDocumentMoniker": "VeterinariaApp.Api\\Program.cs",
+              "ToolTip": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Api\\Program.cs",
+              "RelativeToolTip": "VeterinariaApp.Api\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:42:02.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Domain\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "VeterinariaApp.Domain\\Models\\Usuario.cs",
+              "ToolTip": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Domain\\Models\\Usuario.cs",
+              "RelativeToolTip": "VeterinariaApp.Domain\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:47:40.796Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 493,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

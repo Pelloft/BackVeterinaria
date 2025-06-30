@@ -1,0 +1,11 @@
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Domain\bin\Debug\net9.0\VeterinariaApp.Domain.deps.json
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Domain\bin\Debug\net9.0\VeterinariaApp.Domain.dll
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Domain\bin\Debug\net9.0\VeterinariaApp.Domain.pdb
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Domain\obj\Debug\net9.0\VeterinariaApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Domain\obj\Debug\net9.0\VeterinariaApp.Domain.AssemblyInfoInputs.cache
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Domain\obj\Debug\net9.0\VeterinariaApp.Domain.AssemblyInfo.cs
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Domain\obj\Debug\net9.0\VeterinariaApp.Domain.csproj.CoreCompileInputs.cache
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Domain\obj\Debug\net9.0\VeterinariaApp.Domain.dll
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Domain\obj\Debug\net9.0\refint\VeterinariaApp.Domain.dll
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Domain\obj\Debug\net9.0\VeterinariaApp.Domain.pdb
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Domain\obj\Debug\net9.0\ref\VeterinariaApp.Domain.dll

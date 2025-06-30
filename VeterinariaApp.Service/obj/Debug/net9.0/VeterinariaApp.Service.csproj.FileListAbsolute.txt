@@ -1,0 +1,17 @@
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Service\bin\Debug\net9.0\VeterinariaApp.Service.deps.json
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Service\bin\Debug\net9.0\VeterinariaApp.Service.dll
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Service\bin\Debug\net9.0\VeterinariaApp.Service.pdb
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Service\bin\Debug\net9.0\VeterinariaApp.DataAccess.dll
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Service\bin\Debug\net9.0\VeterinariaApp.Domain.dll
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Service\bin\Debug\net9.0\VeterinariaApp.DataAccess.pdb
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Service\bin\Debug\net9.0\VeterinariaApp.Domain.pdb
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Service\obj\Debug\net9.0\VeterinariaApp.Service.csproj.AssemblyReference.cache
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Service\obj\Debug\net9.0\VeterinariaApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Service\obj\Debug\net9.0\VeterinariaApp.Service.AssemblyInfoInputs.cache
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Service\obj\Debug\net9.0\VeterinariaApp.Service.AssemblyInfo.cs
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Service\obj\Debug\net9.0\VeterinariaApp.Service.csproj.CoreCompileInputs.cache
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Service\obj\Debug\net9.0\Veterina.BD9B2B58.Up2Date
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Service\obj\Debug\net9.0\VeterinariaApp.Service.dll
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Service\obj\Debug\net9.0\refint\VeterinariaApp.Service.dll
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Service\obj\Debug\net9.0\VeterinariaApp.Service.pdb
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Service\obj\Debug\net9.0\ref\VeterinariaApp.Service.dll
