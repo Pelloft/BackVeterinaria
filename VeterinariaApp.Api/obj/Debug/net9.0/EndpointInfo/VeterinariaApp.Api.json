@@ -470,6 +470,10 @@
           "tarifa": {
             "type": "number",
             "format": "double"
+          },
+          "imagenRuta": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false
@@ -593,6 +597,10 @@
           "tarifa": {
             "type": "number",
             "format": "double"
+          },
+          "imagenRuta": {
+            "type": "string",
+            "nullable": true
           },
           "id": {
             "type": "integer",

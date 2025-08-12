@@ -1,0 +1,5 @@
+wwwroot\imagenes\baño_medico.jpg
+wwwroot\imagenes\baño_normal.jpg
+wwwroot\imagenes\desparacitacion.jpeg
+wwwroot\imagenes\peluqueria.jpg
+wwwroot\imagenes\vacuna.jpg

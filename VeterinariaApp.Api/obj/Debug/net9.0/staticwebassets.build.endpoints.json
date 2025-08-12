@@ -1,5 +1,416 @@
 {
   "Version": 1,
   "ManifestType": "Build",
-  "Endpoints": []
+  "Endpoints": [
+    {
+      "Route": "imagenes/baño_medico.bson9islpg.jpg",
+      "AssetFile": "imagenes/baño_medico.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106056"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xfF+RZtfJoy0V+dlGwsb2yx8nwjbiJQexF0+tw/DtHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 03:23:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bson9islpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xfF+RZtfJoy0V+dlGwsb2yx8nwjbiJQexF0+tw/DtHQ="
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/baño_medico.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/baño_medico.jpg",
+      "AssetFile": "imagenes/baño_medico.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106056"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xfF+RZtfJoy0V+dlGwsb2yx8nwjbiJQexF0+tw/DtHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 03:23:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xfF+RZtfJoy0V+dlGwsb2yx8nwjbiJQexF0+tw/DtHQ="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/baño_normal.jpg",
+      "AssetFile": "imagenes/baño_normal.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "658438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k+f/wc/gIEluRF+WxvO31fHA9LTUto9VVspfqcOke4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 03:47:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k+f/wc/gIEluRF+WxvO31fHA9LTUto9VVspfqcOke4E="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/baño_normal.nrboy5wgc4.jpg",
+      "AssetFile": "imagenes/baño_normal.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "658438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k+f/wc/gIEluRF+WxvO31fHA9LTUto9VVspfqcOke4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 03:47:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nrboy5wgc4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k+f/wc/gIEluRF+WxvO31fHA9LTUto9VVspfqcOke4E="
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/baño_normal.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/desparacitacion.jpeg",
+      "AssetFile": "imagenes/desparacitacion.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7911"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2drWulTrekC9wd7SL/ntmDOQGwzTfXmxyhnRr4Pni8M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 21:46:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2drWulTrekC9wd7SL/ntmDOQGwzTfXmxyhnRr4Pni8M="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/desparacitacion.zdnrq72iqa.jpeg",
+      "AssetFile": "imagenes/desparacitacion.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7911"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2drWulTrekC9wd7SL/ntmDOQGwzTfXmxyhnRr4Pni8M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 21:46:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zdnrq72iqa"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2drWulTrekC9wd7SL/ntmDOQGwzTfXmxyhnRr4Pni8M="
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/desparacitacion.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/peluqueria.jpg",
+      "AssetFile": "imagenes/peluqueria.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111284"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kPKNoBA7ZQUEc7fIDNszVojp4kUjOEjCvQtCYIlpu+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Aug 2025 03:00:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kPKNoBA7ZQUEc7fIDNszVojp4kUjOEjCvQtCYIlpu+Y="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/peluqueria.wcka17ls7w.jpg",
+      "AssetFile": "imagenes/peluqueria.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111284"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kPKNoBA7ZQUEc7fIDNszVojp4kUjOEjCvQtCYIlpu+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Aug 2025 03:00:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wcka17ls7w"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kPKNoBA7ZQUEc7fIDNszVojp4kUjOEjCvQtCYIlpu+Y="
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/peluqueria.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/vacuna.jpg",
+      "AssetFile": "imagenes/vacuna.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130037"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SlDScHNF88g1333GUuzFZVlLTBMHoIsNu/yZNOlLS8o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Aug 2025 03:01:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SlDScHNF88g1333GUuzFZVlLTBMHoIsNu/yZNOlLS8o="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/vacuna.mh9hmodwb3.jpg",
+      "AssetFile": "imagenes/vacuna.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130037"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SlDScHNF88g1333GUuzFZVlLTBMHoIsNu/yZNOlLS8o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Aug 2025 03:01:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mh9hmodwb3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SlDScHNF88g1333GUuzFZVlLTBMHoIsNu/yZNOlLS8o="
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/vacuna.jpg"
+        }
+      ]
+    }
+  ]
 }

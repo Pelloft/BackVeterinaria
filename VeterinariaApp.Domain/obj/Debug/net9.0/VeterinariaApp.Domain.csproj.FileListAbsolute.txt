@@ -9,3 +9,4 @@ D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Domain\obj\Debug\net9.0\Ve
 D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Domain\obj\Debug\net9.0\refint\VeterinariaApp.Domain.dll
 D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Domain\obj\Debug\net9.0\VeterinariaApp.Domain.pdb
 D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Domain\obj\Debug\net9.0\ref\VeterinariaApp.Domain.dll
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Domain\obj\Debug\net9.0\VeterinariaApp.Domain.sourcelink.json

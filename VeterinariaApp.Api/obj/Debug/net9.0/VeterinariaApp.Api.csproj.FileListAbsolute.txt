@@ -175,3 +175,5 @@ D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Api\bin\Debug\net9.0\Swash
 D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Api\bin\Debug\net9.0\BCrypt.Net-Next.dll
 D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Api\obj\Debug\net9.0\VeterinariaApp.Api.sourcelink.json
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Api\bin\Debug\net9.0\VeterinariaApp.Api.staticwebassets.runtime.json

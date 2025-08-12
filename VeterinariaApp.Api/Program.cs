@@ -76,6 +76,7 @@ app.Use(async (context, next) =>
 
 app.UseSwagger();
 app.UseSwaggerUI();
+app.UseStaticFiles(); //Permite servir imágenes desde wwwroot
 
 app.UseCors("AllowFrontend");
 app.UseHttpsRedirection();

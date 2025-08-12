@@ -18,6 +18,7 @@ namespace VeterinariaApp.Service.Service
         public async Task<List<Servicio>> GetAllAsync()
             => await _context.Servicios.ToListAsync();
 
+
         public async Task<Servicio?> GetByIdAsync(int id)
             => await _context.Servicios.FindAsync(id);
 

@@ -39,33 +39,70 @@ namespace VeterinariaApp.Api.Controllers
         }
 
 
-        public JsonResponse(T? data = default, string message = "", ResponseStatus status = ResponseStatus.success)
-        {
-            Status = status;
-            Message = message;
-            Data = data;
-        }
+        //public JsonResponse(T? data = default, string message = "", ResponseStatus status = ResponseStatus.success)
+        //{
+        //    Status = status;
+        //    Message = message;
+        //    Data = data;
+        //}
 
 
         [HttpPost("Crear")]
         public async Task<IActionResult> CreateServicio([FromBody] CreateServicioDto dto)
         {
-            await _servicioService.CreateAsync(dto);
-            return Ok("Servicio creado correctamente.");
+            try
+            {
+                if (dto == null)
+                    return BadRequest("Datos invalidos");
+                await _servicioService.CreateAsync(dto);
+                return Ok("Servicio creado correctamente.");
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Error al crear el servicio: {ex.Message}");
+            }
+            
         }
 
         [HttpPut("Actualizar")]
         public async Task<IActionResult> UpdateServicio([FromBody] UpdateServicioDto dto)
         {
-            await _servicioService.UpdateAsync(dto);
-            return Ok("Servicio actualizado correctamente.");
+            try
+            {
+                if (dto == null || dto.Id <= 0)
+                    return BadRequest("Datos inválidos para la actualización.");
+
+                var servicioExistente = await _servicioService.GetByIdAsync(dto.Id);
+                if (servicioExistente == null)
+                    return NotFound("El servicio a actualizar no existe.");
+
+                await _servicioService.UpdateAsync(dto);
+                return Ok("Servicio actualizado correctamente.");
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Error al actualizar el servicio: {ex.Message}");
+            }
         }
 
         [HttpDelete("Eliminar/{id}")]
         public async Task<IActionResult> DeleteServicio(int id)
         {
-            await _servicioService.DeleteAsync(id);
-            return Ok("Servicio eliminado correctamente.");
+            try
+            {
+                if (id <= 0)
+                    return BadRequest("ID de servicio no válido");
+                var servicio = await _servicioService.GetByIdAsync(id);
+                if (servicio == null)
+                    return NotFound("El servicio a eliminar no existe.");
+
+                await _servicioService.DeleteAsync(id);
+                return Ok("Servicio eliminado correctamente.");
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Error al eliminar el servicio: {ex.Message}");
+            }
         }
     }
 }
