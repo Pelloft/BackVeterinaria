@@ -1,2 +1,0 @@
-D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Api\wwwroot\imagenes\peluqueria.avif
-D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.Api\wwwroot\imagenes\vacuna.avif

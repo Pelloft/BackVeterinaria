@@ -26,6 +26,8 @@ builder.Services.AddDbContext<VeterinariaDbContext>(options =>
 builder.Services.AddScoped<IOwnerService, OwnerService>();
 builder.Services.AddScoped<IPetService, PetService>();
 builder.Services.AddScoped<IServicioService, ServicioService>();
+builder.Services.AddScoped<FacturaService>();
+
 
 // Swagger
 builder.Services.AddEndpointsApiExplorer();
