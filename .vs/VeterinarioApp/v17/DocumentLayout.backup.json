@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\C#Projects\\source\\repos\\ApiMascotas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D1963C8-F509-4B9B-AECC-5452839EBC6F}|VeterinariaApp.Service\\VeterinariaApp.Service.csproj|d:\\c#projects\\source\\repos\\apimascotas\\veterinariaapp.service\\service\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D1963C8-F509-4B9B-AECC-5452839EBC6F}|VeterinariaApp.Service\\VeterinariaApp.Service.csproj|solutionrelative:veterinariaapp.service\\service\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5344C956-CBA6-4BAA-AB3B-5AAC369AFA06}|VeterinariaApp.DataAccess\\VeterinariaApp.DataAccess.csproj|d:\\c#projects\\source\\repos\\apimascotas\\veterinariaapp.dataaccess\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5344C956-CBA6-4BAA-AB3B-5AAC369AFA06}|VeterinariaApp.DataAccess\\VeterinariaApp.DataAccess.csproj|solutionrelative:veterinariaapp.dataaccess\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31AF9C30-45F2-4FA9-9919-99F656B00121}|VeterinariaApp.Api\\VeterinariaApp.Api.csproj|d:\\c#projects\\source\\repos\\apimascotas\\veterinariaapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31AF9C30-45F2-4FA9-9919-99F656B00121}|VeterinariaApp.Api\\VeterinariaApp.Api.csproj|solutionrelative:veterinariaapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D1963C8-F509-4B9B-AECC-5452839EBC6F}|VeterinariaApp.Service\\VeterinariaApp.Service.csproj|d:\\c#projects\\source\\repos\\apimascotas\\veterinariaapp.service\\service\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1963C8-F509-4B9B-AECC-5452839EBC6F}|VeterinariaApp.Service\\VeterinariaApp.Service.csproj|solutionrelative:veterinariaapp.service\\service\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E462EBD7-FDB0-4FEF-A854-39FC843FB609}|VeterinariaApp.Domain\\VeterinariaApp.Domain.csproj|d:\\c#projects\\source\\repos\\apimascotas\\veterinariaapp.domain\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E462EBD7-FDB0-4FEF-A854-39FC843FB609}|VeterinariaApp.Domain\\VeterinariaApp.Domain.csproj|solutionrelative:veterinariaapp.domain\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E462EBD7-FDB0-4FEF-A854-39FC843FB609}|VeterinariaApp.Domain\\VeterinariaApp.Domain.csproj|d:\\c#projects\\source\\repos\\apimascotas\\veterinariaapp.domain\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E462EBD7-FDB0-4FEF-A854-39FC843FB609}|VeterinariaApp.Domain\\VeterinariaApp.Domain.csproj|solutionrelative:veterinariaapp.domain\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31AF9C30-45F2-4FA9-9919-99F656B00121}|VeterinariaApp.Api\\VeterinariaApp.Api.csproj|d:\\c#projects\\source\\repos\\apimascotas\\veterinariaapp.api\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,86 +29,109 @@
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 148,
-          "SelectedChildIndex": 0,
+          "DockedHeight": 402,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FacturaService.cs",
-              "DocumentMoniker": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Service\\Service\\FacturaService.cs",
-              "RelativeDocumentMoniker": "VeterinariaApp.Service\\Service\\FacturaService.cs",
-              "ToolTip": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Service\\Service\\FacturaService.cs",
-              "RelativeToolTip": "VeterinariaApp.Service\\Service\\FacturaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T04:23:25.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Factura.cs",
-              "DocumentMoniker": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Domain\\Models\\Factura.cs",
-              "RelativeDocumentMoniker": "VeterinariaApp.Domain\\Models\\Factura.cs",
-              "ToolTip": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Domain\\Models\\Factura.cs",
-              "RelativeToolTip": "VeterinariaApp.Domain\\Models\\Factura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T05:46:28.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DbContext.cs",
-              "DocumentMoniker": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.DataAccess\\DbContext.cs",
-              "RelativeDocumentMoniker": "VeterinariaApp.DataAccess\\DbContext.cs",
-              "ToolTip": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.DataAccess\\DbContext.cs",
-              "RelativeToolTip": "VeterinariaApp.DataAccess\\DbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T05:41:39.573Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FacturaController.cs",
               "DocumentMoniker": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Api\\Controllers\\FacturaController.cs",
               "RelativeDocumentMoniker": "VeterinariaApp.Api\\Controllers\\FacturaController.cs",
               "ToolTip": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Api\\Controllers\\FacturaController.cs",
               "RelativeToolTip": "VeterinariaApp.Api\\Controllers\\FacturaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T04:37:54.796Z",
+              "WhenOpened": "2025-08-20T05:13:17.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Api\\Program.cs",
-              "RelativeDocumentMoniker": "VeterinariaApp.Api\\Program.cs",
-              "ToolTip": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Api\\Program.cs",
-              "RelativeToolTip": "VeterinariaApp.Api\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Domain\\Models\\Servicio.cs",
+              "RelativeDocumentMoniker": "VeterinariaApp.Domain\\Models\\Servicio.cs",
+              "ToolTip": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Domain\\Models\\Servicio.cs",
+              "RelativeToolTip": "VeterinariaApp.Domain\\Models\\Servicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T23:42:02.027Z",
+              "WhenOpened": "2025-08-23T01:13:57.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.DataAccess\\DbContext.cs",
+              "RelativeDocumentMoniker": "VeterinariaApp.DataAccess\\DbContext.cs",
+              "ToolTip": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.DataAccess\\DbContext.cs",
+              "RelativeToolTip": "VeterinariaApp.DataAccess\\DbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowC4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T01:13:08.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacturaService.cs",
+              "DocumentMoniker": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Service\\Service\\FacturaService.cs",
+              "RelativeDocumentMoniker": "VeterinariaApp.Service\\Service\\FacturaService.cs",
+              "ToolTip": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Service\\Service\\FacturaService.cs",
+              "RelativeToolTip": "VeterinariaApp.Service\\Service\\FacturaService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowBgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:23:25.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Domain\\Models\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "VeterinariaApp.Domain\\Models\\DetalleFactura.cs",
+              "ToolTip": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Domain\\Models\\DetalleFactura.cs",
+              "RelativeToolTip": "VeterinariaApp.Domain\\Models\\DetalleFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T20:44:31.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Domain\\Models\\Factura.cs",
+              "RelativeDocumentMoniker": "VeterinariaApp.Domain\\Models\\Factura.cs",
+              "ToolTip": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Domain\\Models\\Factura.cs",
+              "RelativeToolTip": "VeterinariaApp.Domain\\Models\\Factura.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T20:35:51.114Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 493,
+          "DockedHeight": 716,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
           "SelectedChildIndex": -1,
           "Children": [
             {

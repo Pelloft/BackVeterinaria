@@ -13,6 +13,7 @@ public class VeterinariaDbContext : DbContext
     public DbSet<Servicio> Servicios { get; set; }
     public DbSet<Usuario> Usuarios { get; set; }
     public DbSet<Factura> Facturas { get; set; }
+    public DbSet<DetalleFactura> Detalles { get; set; }
     
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -28,6 +29,23 @@ public class VeterinariaDbContext : DbContext
         modelBuilder.Entity<Servicio>()
             .Property(s => s.Tarifa)
             .HasPrecision(10, 2);
+
+        modelBuilder.Entity<DetalleFactura>()
+            .Property(df => df.Subtotal)
+            .HasPrecision(18, 2);
+
+        modelBuilder.Entity<Factura>()
+        .Property(f => f.Subtotal)
+        .HasPrecision(18, 2);
+
+        modelBuilder.Entity<Factura>()
+            .Property(f => f.IVA)
+            .HasPrecision(18, 2);
+
+        modelBuilder.Entity<Factura>()
+        .Property(f => f.Total)
+        .HasPrecision(18, 2);
+
     }
 }
 
