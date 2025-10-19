@@ -654,10 +654,12 @@
             "format": "int32"
           },
           "cliente": {
+            "maxLength": 100,
             "minLength": 1,
             "type": "string"
           },
           "mascota": {
+            "maxLength": 100,
             "minLength": 1,
             "type": "string"
           },

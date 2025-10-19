@@ -51,7 +51,7 @@ namespace VeterinariaApp.Service.Service
             existingFactura.IVA = factura.IVA;
             existingFactura.Total = factura.Total;
 
-            // 🔄 Manejo de detalles (simplificado: reemplazamos por la nueva lista)
+            //Manejo de detalles (simplificado: reemplazamos por la nueva lista)
             existingFactura.Detalles.Clear();
             foreach (var detalle in factura.Detalles)
             {

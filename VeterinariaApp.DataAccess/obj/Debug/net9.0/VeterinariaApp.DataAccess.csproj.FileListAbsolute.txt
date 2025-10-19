@@ -9,10 +9,10 @@ D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.DataAccess\obj\Debug\net9.
 D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.DataAccess\obj\Debug\net9.0\VeterinariaApp.DataAccess.AssemblyInfoInputs.cache
 D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.DataAccess\obj\Debug\net9.0\VeterinariaApp.DataAccess.AssemblyInfo.cs
 D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.DataAccess\obj\Debug\net9.0\VeterinariaApp.DataAccess.csproj.CoreCompileInputs.cache
+D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.DataAccess\obj\Debug\net9.0\VeterinariaApp.DataAccess.sourcelink.json
 D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.DataAccess\obj\Debug\net9.0\Veterina.5806A675.Up2Date
 D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.DataAccess\obj\Debug\net9.0\VeterinariaApp.DataAccess.dll
 D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.DataAccess\obj\Debug\net9.0\refint\VeterinariaApp.DataAccess.dll
 D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.DataAccess\obj\Debug\net9.0\VeterinariaApp.DataAccess.pdb
 D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.DataAccess\obj\Debug\net9.0\VeterinariaApp.DataAccess.genruntimeconfig.cache
 D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.DataAccess\obj\Debug\net9.0\ref\VeterinariaApp.DataAccess.dll
-D:\C#Projects\source\repos\ApiMascotas\VeterinariaApp.DataAccess\obj\Debug\net9.0\VeterinariaApp.DataAccess.sourcelink.json

@@ -10,14 +10,14 @@
         "projectUniqueName": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Api\\VeterinariaApp.Api.csproj",
         "projectName": "VeterinariaApp.Api",
         "projectPath": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Api\\VeterinariaApp.Api.csproj",
-        "packagesPath": "C:\\Users\\antho\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\PELLOFT\\.nuget\\packages\\",
         "outputPath": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\antho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PELLOFT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -54,7 +54,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -102,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -112,14 +112,14 @@
         "projectUniqueName": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.DataAccess\\VeterinariaApp.DataAccess.csproj",
         "projectName": "VeterinariaApp.DataAccess",
         "projectPath": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.DataAccess\\VeterinariaApp.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\antho\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\PELLOFT\\.nuget\\packages\\",
         "outputPath": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\antho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PELLOFT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -150,7 +150,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -183,7 +183,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -193,14 +193,14 @@
         "projectUniqueName": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Domain\\VeterinariaApp.Domain.csproj",
         "projectName": "VeterinariaApp.Domain",
         "projectPath": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Domain\\VeterinariaApp.Domain.csproj",
-        "packagesPath": "C:\\Users\\antho\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\PELLOFT\\.nuget\\packages\\",
         "outputPath": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\antho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PELLOFT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -227,7 +227,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -248,7 +248,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -258,14 +258,14 @@
         "projectUniqueName": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Service\\VeterinariaApp.Service.csproj",
         "projectName": "VeterinariaApp.Service",
         "projectPath": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Service\\VeterinariaApp.Service.csproj",
-        "packagesPath": "C:\\Users\\antho\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\PELLOFT\\.nuget\\packages\\",
         "outputPath": "D:\\C#Projects\\source\\repos\\ApiMascotas\\VeterinariaApp.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\antho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PELLOFT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -299,7 +299,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -330,7 +330,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

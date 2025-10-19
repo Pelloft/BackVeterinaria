@@ -1,0 +1,27 @@
+# Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Carpetas de compilación
+bin/
+obj/
+Debug/
+Release/
+
+# Archivos de dependencias
+node_modules/
+wwwroot/lib/
+
+# Archivos de logs y temporales
+*.log
+*.cache
+*.tmp
+
+# Archivos de configuración local
+appsettings.Development.json
+
+# Archivos de migraciones temporales
+Migrations/
